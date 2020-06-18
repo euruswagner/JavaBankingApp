@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+h1 {
+	color: purple;
+}
+
+.success-message {
+	color: #32fc43;
+}
+
+.error-message {
+	color: #FF0000;
+}
